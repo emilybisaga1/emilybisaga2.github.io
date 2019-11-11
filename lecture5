@@ -1,0 +1,5 @@
+lst=['a','b','c','d']
+print('lst=',lst)
+
+for elem in lst:
+	print('elem=', elem)
